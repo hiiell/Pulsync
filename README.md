@@ -137,3 +137,8 @@ The current signaling service has not been fully hardened against abuse. Before 
 ## License
 
 All rights reserved. See [LICENSE](LICENSE) for the project terms. Use, copying, modification, and redistribution require permission from the copyright holder.
+
+## Credit
+
+- [Claude](https://claude.com)
+- [Hilal](https://github.com/hiiell)
