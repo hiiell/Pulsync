@@ -2,7 +2,7 @@
 
 Pulsync is a browser-based file transfer app built for devices on the same local network. Files are transferred peer-to-peer through WebRTC DataChannels; the Go backend handles peer discovery and WebRTC signaling, not file payloads, in the integrated local-transfer flow.
 
-Repository: https://github.com/hilalunivers08/Pulsync
+Repository: https://github.com/hiiell/Pulsync
 
 ## Features
 
